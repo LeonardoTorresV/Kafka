@@ -9,5 +9,4 @@ class StrProducerApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
